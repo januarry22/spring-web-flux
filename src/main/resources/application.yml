@@ -1,0 +1,12 @@
+server:
+  port: 8888
+spring:
+  application:
+    name: config
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/januarry22/spring-config-cloud.git
+          search-paths: webflux/**
+          default-label: main
