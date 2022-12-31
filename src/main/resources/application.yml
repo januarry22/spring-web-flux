@@ -15,5 +15,53 @@ spring:
           hostKey:  ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAq2A7hRGmdnm9tUDbO9IDSwBK6TbQa+PXYPCPy6rbTrTtw7PHkccKrpp0yVhp5HdEIcKr6pLlVDBfOLX9QUsyCOV0wzfjIJNlGEYsdlLJizHhbn2mUjvSAHQqZETYP81eFzLQNnPHt4EVVUh7VfDESU84KezmD5QlWpXLmvU31/yMf+Se8xhHTvKSCZIFImWwoG6mbUoWf9nzpIoaSjB+weqqUUmpaaasXVal72J+UX2B+2RPW3RcT0eOzQgqlJL3RKrTJvdsjE3JEAvGq3lGHSZXy28G3skua2SmVi/w4yCE6gbODqnTWlg7+wC604ydGXA8VJiS5ap43JXiUFFAaQ==
           hostKeyAlgorithm: ssh-rsa
           privateKey: |
-
+            -----BEGIN OPENSSH PRIVATE KEY-----
+            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
+            -----END OPENSSH PRIVATE KEY-----
             passphrase: test
